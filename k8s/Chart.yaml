@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_PKI
+name: alice-pki
 description: ALICE PKI
 type: application
 version: 0.1.0
